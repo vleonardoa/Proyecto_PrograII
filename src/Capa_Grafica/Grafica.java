@@ -72,11 +72,11 @@ public class Grafica extends javax.swing.JFrame {
         getContentPane().add(Valor2, new org.netbeans.lib.awtextra.AbsoluteConstraints(123, 106, 173, -1));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jLabel1.setText("Quetzales:");
+        jLabel1.setText("Q");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(42, 106, -1, -1));
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jLabel2.setText("Dolares:");
+        jLabel2.setText("$");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(42, 144, -1, -1));
 
         jPanel1.setBackground(new java.awt.Color(204, 204, 255));
