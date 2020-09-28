@@ -5,7 +5,7 @@ import gt.gob.banguat.variables.ws.TipoCambio;
 import java.math.BigDecimal;
 
 public class Logica {
-
+//Hola
     public Double Valor1;
 
     public Logica(String varlor1) {
