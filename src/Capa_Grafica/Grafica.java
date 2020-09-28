@@ -4,7 +4,7 @@ import Capa_Logica.Logica;
 import gt.gob.banguat.variables.ws.InfoVariable;
 
 public class Grafica extends javax.swing.JFrame {
-
+//Hola
     public Grafica() {
         initComponents();
     }
